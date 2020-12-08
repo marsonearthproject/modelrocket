@@ -1,13 +1,13 @@
-<b>Model roket parçaları</b>
-Tüm parçalar PVC boru 50 mm çap ve 1,8 mm gövde kalınlığına göre  olup, vida ve somunlar M3 (metrik 3) tiptir.
+<b>Model roket parçaları</b><br>
+Tüm parçalar PVC boru 50 mm çap ve 1,8 mm gövde kalınlığına göre  olup, vida ve somunlar M3 (metrik 3) tiptir.<br>
 
-Docking-Kenetlenme-50mm.stl :
-Roket gövdesinin birbirine birleştirilmesi amacıyla kullanılan vidalanabilir kenetlenme parçası
+<b>Docking-Kenetlenme-50mm.stl :</b><br>
+Roket gövdesinin birbirine birleştirilmesi amacıyla kullanılan vidalanabilir kenetlenme parçası.<br>
 
-MotorBlock-Motor-50mm.stl :
+<b>MotorBlock-Motor-50mm.stl :</b><br>
 3 Adet motor ve motor tutucu bloğu
 
-Nosecone-Burun-Konisi-50mm.stl Vidalanabilir ve sabitlenebilir burun konusu.
+<b>Nosecone-Burun-Konisi-50mm.stl Vidalanabilir ve sabitlenebilir burun konusu.<br>
 
-Wing-Holder-Kanat-Tutucu.stl :
+<b>Wing-Holder-Kanat-Tutucu.stl :</b><br>
 4 mm kontrplak (alt ve üst) kanat tutucu 

@@ -1,4 +1,4 @@
-Model roket parçaları
+<b>Model roket parçaları</b>
 Tüm parçalar PVC boru 50 mm çap ve 1,8 mm gövde kalınlığına göre  olup, vida ve somunlar M3 (metrik 3) tiptir.
 
 Docking-Kenetlenme-50mm.stl :

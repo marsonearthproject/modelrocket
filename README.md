@@ -7,7 +7,8 @@ Roket gövdesinin birbirine birleştirilmesi amacıyla kullanılan vidalanabilir
 <b>MotorBlock-Motor-50mm.stl :</b><br>
 3 Adet motor ve motor tutucu bloğu
 
-<b>Nosecone-Burun-Konisi-50mm.stl Vidalanabilir ve sabitlenebilir burun konusu.<br>
+<b>Nosecone-Burun-Konisi-50mm.stl :</b><br>
+Vidalanabilir ve sabitlenebilir burun konusu.<br>
 
 <b>Wing-Holder-Kanat-Tutucu.stl :</b><br>
 4 mm kontrplak (alt ve üst) kanat tutucu 

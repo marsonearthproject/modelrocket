@@ -12,3 +12,6 @@ Vidalanabilir ve sabitlenebilir burun konusu.<br>
 
 <b>Wing-Holder-Kanat-Tutucu.stl :</b><br>
 4 mm kontrplak (alt ve üst) kanat tutucu 
+
+<b>201-Holder.stl :</b><br>
+Arduino Nano ve 18650 pil tutucu yüzük
